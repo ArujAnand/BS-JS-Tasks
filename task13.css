@@ -49,3 +49,19 @@
     font-size: 16.5px;
     line-height: 15px;
 }
+
+.task3-box{
+    max-width: 58%;
+}
+
+.task3-plan-box{
+    max-width: 80%;
+    max-height: 50%;
+    border: 1px solid;
+    border-color: black;
+}
+
+.sub-head{
+    font-weight: 450;
+    font-size: 25px;
+}
