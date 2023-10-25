@@ -1,4 +1,4 @@
-let number = 32243;
+let number = 32243  ;
 
 // Initializing the result variable 
 let result = 0;
